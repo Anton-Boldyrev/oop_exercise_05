@@ -60,7 +60,6 @@ int main() {
 				std::cout << err.what() << "\n";
 			}
 			
-			
 		} else if (cmd == "t") {
 			try {
 				s.top();
