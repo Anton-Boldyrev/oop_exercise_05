@@ -12,8 +12,6 @@ struct TPoint {
 	TPoint(T a, T b) : x(a), y(b){}
 	T x;
 	T y;
-	
-
 };
 
 template<class T>
